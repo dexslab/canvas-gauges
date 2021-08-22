@@ -3,7 +3,7 @@
   "version": "2.1.7",
   "description": "Minimalist HTML5 Canvas Gauges",
   "main": "gauge.min.js",
-  "types": "types/*",
+  "typings": "gauge.d.ts",
   "directories": {
     "example": "examples"
   },
